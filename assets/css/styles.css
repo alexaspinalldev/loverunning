@@ -45,6 +45,14 @@ nav {
     display: block;
 }
 
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
+}
+
 h1 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
@@ -70,6 +78,7 @@ h1 {
 main {
     background-color: aqua;
     flex: 1 0 auto;
+    margin-top: 47px;
 
 }
 
