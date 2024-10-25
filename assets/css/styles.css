@@ -5,6 +5,7 @@
     margin: 0;
     box-sizing: border-box;
     text-decoration: none;
+    color: inherit;
 }
 
 body {
@@ -40,4 +41,6 @@ footer {
 h1 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
 }
